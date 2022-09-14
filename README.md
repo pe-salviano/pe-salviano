@@ -1,5 +1,5 @@
 ### 👋🏼 Olá, eu sou o Pedro Salviano! Seja bem vindo(a).
-- 🌱 Estudando JavaScript, HTML5 e CSS3
+- 🌱 JavaScript, HTML5 e CSS3
 
 ##
 
